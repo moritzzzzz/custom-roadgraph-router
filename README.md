@@ -15,8 +15,6 @@ The **Custom Roadgraph Router** is a Python script designed to find a route on f
 To run the Custom Roadgraph Router, you need to install the following dependencies:
 
 ```plaintext
-fastapi
-uvicorn[standard]
 python-multipart
 requests
 networkx
