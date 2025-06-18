@@ -1,6 +1,6 @@
 # Custom Roadgraph Router
 
-The **Custom Roadgraph Router** is a Python script designed to retrieve Mapbox vector tiles from a specified tileset and generate a routing graph using the NetworkX library. By providing origin and destination geolocations, the script calculates the shortest path between the two points and returns the route geometry. Additionally, it creates a visual representation of the roadgraph, displaying connected nodes and the route in context.
+The **Custom Roadgraph Router** is a Python script designed to find a route on features of a Mapbox Tileset. It retrieves Mapbox vector tiles from a specified tileset and generate a routing graph using the NetworkX library. By providing origin and destination geolocations, the script calculates the shortest path between the two points and returns the route geometry. Additionally, it creates a visual representation of the roadgraph, displaying connected nodes and the route in context.
 
 ## Features
 
